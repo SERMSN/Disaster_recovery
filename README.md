@@ -1,4 +1,4 @@
-# ДДомашнее задание к занятию 1 «Disaster recovery и Keepalived» - Малявко Сергей (netology)
+# Домашнее задание к занятию 1 «Disaster recovery и Keepalived» - Малявко Сергей (netology)
 
 ### Задание 1
 * Дана схема для Cisco Packet Tracer, рассматриваемая в лекции.
@@ -25,7 +25,7 @@
 [check_server.sh](files/check_server.sh)
 
 ##### Конфигурационный файл keepalived с настройкой:
-[check_server.sh](files/check_server.sh)
+[keepalived.conf](files/keepalived.conf)
 
 ##### Настройка http на VM1 т VM2:
 ![Скриншот VM1 рис. 1](images/task2-1.png)

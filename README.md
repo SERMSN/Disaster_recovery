@@ -27,7 +27,7 @@
 ##### Конфигурационный файл keepalived с настройкой:
 [keepalived.conf](files/keepalived.conf)
 
-##### Настройка http на VM1 т VM2:
+##### Настройка http на VM1 и VM2:
 ![Скриншот VM1 рис. 1](images/task2-1.png)
 ![Скриншот VM2 рис. 2](images/task2-2.png)
 
